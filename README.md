@@ -8,3 +8,4 @@ Starter project from a GraphQL course on Udemy.com
 - Access the application at `localhost:4000` in your browser
 # frontend-graphql
 # frontend-graphql
+# frontend-graphql
